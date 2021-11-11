@@ -1,0 +1,3 @@
+[submodule "youth-india-client"]
+	path = youth-india-client
+	url = https://github.com/vivek80801/youth-india-client
